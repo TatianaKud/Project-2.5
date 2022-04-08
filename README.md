@@ -5,6 +5,7 @@
 * CSS
 * JS
 ## URL:
+https://tatianakud.github.io/Project-2.5/
 
 
 # Проект-2.5
@@ -14,3 +15,4 @@
 * CSS
 * JS
 ## Ссылка на сайт:
+https://tatianakud.github.io/Project-2.5/
